@@ -1,5 +1,5 @@
 # Kamina
-![Kamina Logo](/data/polis/default/kamina_logo.png)
+![Kamina Logo](/kamina_logo.png)
 
 # What is Kamina
 IPFS-based decentralized social networking platform
