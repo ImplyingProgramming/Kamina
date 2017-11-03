@@ -12,6 +12,6 @@ Contributors are to submit RFCs and issues.
 To make RFCs: 
 
 1. Fork the repo.
-2. In your local clone, copy the [template](https://github.com/ImplyingProgramming/Kamina/blob/master/rfcs/0000-template.md) to a similar file following naming conventions and fill in the appropriate details.
+2. In your local clone, copy the [template](https://github.com/ImplyingProgramming/Kamina/blob/master/rfcs/template.md) to a similar file following naming conventions and fill in the appropriate details.
 3. Open a pull request.
 
