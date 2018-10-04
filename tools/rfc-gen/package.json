@@ -1,0 +1,14 @@
+{
+  "name": "rfc-gen",
+  "version": "0.0.0",
+  "description": "RFC generator for Kamina RFC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Temoto-kun <allan.crisostomo@outlook.com>",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "inquirer": "^3.3.0"
+  }
+}
